@@ -2,10 +2,10 @@
 
 ## 主要截图
 
-![image](https://github.com/wjx0428/employment-project/assets/68766497/36fb2181-703f-4b45-87fd-2535ec0b131c)
+![image](https://github.com/wjx0428/employment-project/assets/68766497/297a8cea-f1e4-4ea8-92f6-22c4ce0889d8)
 
-![image](https://github.com/wjx0428/employment-project/assets/68766497/ea3e577f-75c1-4bbc-93c4-e573d0e03501)
+![image](https://github.com/wjx0428/employment-project/assets/68766497/ce2c71e8-c64b-465d-9c5e-e3e2f2fcbaea)
 
-![image](https://github.com/wjx0428/employment-project/assets/68766497/b6931aac-7101-478c-ac25-fce4e04097bf)
+![image](https://github.com/wjx0428/employment-project/assets/68766497/ea3a221a-06d5-4d07-b91c-dbd97da27f2a)
 
-![image](https://github.com/wjx0428/employment-project/assets/68766497/28018c40-dba3-483f-8b40-75f7021332b3)
+![image](https://github.com/wjx0428/employment-project/assets/68766497/76a69134-3f84-4ae0-a9ff-da0fc41104a2)
